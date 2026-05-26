@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
