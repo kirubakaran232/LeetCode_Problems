@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
