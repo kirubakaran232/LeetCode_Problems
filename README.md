@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -67,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
