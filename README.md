@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0137-single-number-ii](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/kirubakaran232/LeetCode_Problems/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
