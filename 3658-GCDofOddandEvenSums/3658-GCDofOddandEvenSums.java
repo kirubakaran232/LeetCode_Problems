@@ -1,4 +1,4 @@
-// Last updated: 7/15/2026, 9:04:01 AM
+// Last updated: 7/15/2026, 9:19:31 AM
 1class Solution {
 2    public int gcdOfOddEvenSums(int n) {
 3        int even = 0,odd = 0;
@@ -10,12 +10,12 @@
 9            }
 10        }
 11        int min = Math.min(even,odd);
-12        int res = 0;
-13        for(int i=1;i<=min;i++){
-14            if(even%i==0 && odd%i==0){
-15                res = i;
-16            }
+12        int max = Math.max(even,odd);
+13        while(min!=0){
+14            int temp = min;
+15            min = max%min;
+16            max = temp;
 17        }
-18        return res;
+18        return max;
 19    }
 20}
