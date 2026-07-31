@@ -1,19 +1,19 @@
-// Last updated: 5/29/2026, 3:18:16 AM
+// Last updated: 7/31/2026, 2:18:53 PM
 1class Solution {
 2    public List<List<Integer>> combine(int n, int k) {
 3        List<List<Integer>> res = new ArrayList<>();
-4        List<Integer> l = new ArrayList<>();
-5        backtrack(1,res,l,n,k);
-6        return res;
-7    }
-8    public void backtrack(int st,List<List<Integer>> res,List<Integer> l,int n,int k){
-9        if(l.size()==k){
-10            res.add(new ArrayList<>(l));
-11            return;
-12        }
-13        for(int i=st;i<=n;i++){
+4        bt(res,new ArrayList<>(),1,k,n);
+5        return res;
+6    }
+7    public void bt(List<List<Integer>> res, List<Integer> l,int st,int k,int n){
+8        if(l.size()==k){
+9            res.add(new ArrayList<>(l));
+10            return;
+11        }
+12        for(int i=st;i<=n;i++){
+13            if(l.contains(i)) continue;
 14            l.add(i);
-15            backtrack(i+1,res,l,n,k);
+15            bt(res,l,i+1,k,n);
 16            l.remove(l.size()-1);
 17        }
 18    }
