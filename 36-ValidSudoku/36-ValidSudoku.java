@@ -1,4 +1,4 @@
-// Last updated: 7/1/2026, 10:14:31 PM
+// Last updated: 8/8/2026, 4:18:28 PM
 1class Solution {
 2    public boolean isValidSudoku(char[][] b) {
 3        HashSet<Integer>[] r = new HashSet[9];
@@ -12,7 +12,7 @@
 11        for(int i=0;i<9;i++){
 12            for(int j=0;j<9;j++){
 13                if(b[i][j]!='.'){
-14                    int val = b[i][j] -'0';
+14                    int val = b[i][j] - '0';
 15                    int ind = (i/3)*3+(j/3);
 16                    if(r[i].contains(val) || c[j].contains(val) || s[ind].contains(val)){
 17                        return false;
